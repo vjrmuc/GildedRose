@@ -1,0 +1,2 @@
+class ImproperConfigurationException(ValueError):
+    pass
